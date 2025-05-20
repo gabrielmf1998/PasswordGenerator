@@ -1,6 +1,6 @@
 ## Gerador de senhas Powershell
 
-Esse script usa a funcao usa a classe RNGCryptoServiceProvider, é atualmente descontinuada, mas serve ainda para gerar senhas incrivelmente poderosas.
+Esse script usa a classe RNGCryptoServiceProvider, é atualmente descontinuada, mas serve ainda para gerar senhas incrivelmente poderosas.
 Ele gera uma senha no padrão 120+bits, ou seja, é praticamente impossível quebrar essa senha com ataques de força bruta.
 
 ### Compatibilidade e Conformidade
